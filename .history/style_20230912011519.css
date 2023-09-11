@@ -1,0 +1,14 @@
+*{
+    margin:0;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background:linear-gradient( rgb(60, 54, 54) 20%, rgb(58, 22, 48) 74%) ;
+}
+.container{
+
+}
